@@ -109,7 +109,7 @@
 		"@angular/language-service": "~9.0.6",
 		"@ionic/angular-toolkit": "^2.2.0",
 		"@ionic/lab": "^3.1.2",
-		"@ngneat/spectator": "^5.3.1",
+		"@ngneat/spectator": "^5.13.4",
 		"@storybook/angular": "^5.3.17",
 		"@types/bcryptjs": "^2.4.2",
 		"@types/bip39": "^3.0.0",
